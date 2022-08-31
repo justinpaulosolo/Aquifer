@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;900&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+.body-exl {
+    width: 100vw;
+    height: 100vh;
+    background: #ecf0f3;
+    display: flex;
+    text-align: center;
+    font-family: poppins;
+}
+
+.card-exl {
+    margin-top: 5px;
+    border-radius: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+    background: #dee5f8;
+    box-shadow: 6px 6px 8px #cbced1, -6px -6px 8px white;
+}
+
+.inputs-exl {
+    text-align: left;
+    margin-top: 25px;
+}
+
+.input-exl {
+    background: #ffffff;
+    padding: 10px;
+    padding-left: 20px;
+    height: 50px;
+    font-size: 18px;
+    border-radius: 50px;
+    box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px white;
+    margin-top: 5px;
+}
+
+.button-exl {
+    color: white;
+    margin-top: 20px;
+    background: #1da1f2;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 900;
+    box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px white;
+    transition: 0.5s;
+    width: 200px;
+}
+.modal-content {
+    display: contents;
+}
